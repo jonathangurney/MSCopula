@@ -1,0 +1,12 @@
+Package: MSCopula
+Title: Fit and simulate from time-varying copula models with regime-switching
+Version: 0.1
+Authors@R: 
+    person("Jonathan", "Gurney", , "jonathan.gurney@hotmail.com", role = c("aut", "cre"))
+Description: What the package does (one paragraph).
+License: use_gpl3_license()
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.2.1
+Imports: matrixcalc, mvtnorm, Rdpack
+RdMacros: Rdpack
